@@ -1,0 +1,36 @@
+<!DOCTYPE>
+  <html>
+    <head>
+      <title>A list of My Favorite Things</title>
+    </head>
+
+
+    <body>
+      <style>
+        body {background:salmon;}
+        .center {text-align:center;}
+        .lsalmon {background:lightsalmon;margin-top:60px;margin-bottom:60px;margin-right:60px;margin-left:60px;padding-top:30px;padding-bottom:30px;}
+        .none{text-decoration:none;color:mediumvioletred;}
+        .home {color:mistyrose;text-decoration:none;}
+        .dsalmon {background:darksalmon;}
+        img {height:250px;}
+      </style>
+
+      <div class="center">
+        <div class="lsalmon">
+      <h1 style="color:mistyrose;">
+        <a href="listofthingsilike.html" class="home">
+        A LIST OF MY FAVORITE THINGS
+        </a>
+      </h1>
+      <br>
+      <br>
+      <h3><a href="movies.html" class="none">Movies</a></h3>
+      <h3><a href="tv.html" class="none">TV</a></h3>
+      <h3><a href="music.html" class="none">Music</a></h3>
+      <h3><a href="food.html" class="none">Food</a></h3>
+      <h3><a href="animals.html" class="none">Animals</a></h3>
+        </div>
+      </div>
+    </body>
+  </html>
